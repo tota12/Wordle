@@ -19,4 +19,4 @@ Contributions are welcome! If you spot any issues or have suggestions for improv
 This project is licensed under the MIT License.
 
 # Acknowledgements
-This project was inspired by the New York Times wordle game and was created as an exercise for learning Python programming.
+This project was inspired by the New York Times Wordle game and was created as an exercise for learning Python programming.
